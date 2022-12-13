@@ -1,0 +1,16 @@
+.navbar {
+  margin-top: 1em;
+  text-align: right;
+  width: 100%;
+  top: 0;
+  z-index: 100;
+  position: fixed;
+}
+.navbar_links a{
+  color: #52796f;
+  display: inline;
+  text-align: right;
+  text-decoration: none;
+  padding: 1.7em;
+  z-index: 100;
+}
